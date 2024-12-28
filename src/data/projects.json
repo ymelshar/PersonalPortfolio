@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Code Cadet",
+    "imageSrc": "projects/CodeCadet.png",
+    "description": "A coding education app for young learners.",
+    "skills": ["Python", "JavaScript", "Firebase"],
+    "source": "https://github.com/winstontsui/CIS454CodeCadet"
+  },
+  {
+    "title": "Chatroom Application",
+    "imageSrc": "projects/chatroom.png",
+    "description": "Real-time chat app with Google Authentication.",
+    "skills": ["React", "Firebase", "Firestore"],
+    "source": "https://github.com/ymelshar/CSE389Project/tree/React-Version"
+  },
+  {
+    "title": "Distant Reading Website",
+    "imageSrc": "projects/ngram.png",
+    "description": "An educational website exploring digital humanities.",
+    "skills": ["React", "Visualization Libraries", "UI Design"],
+    "source": "https://github.com/ymelshar/DistantReadingWebsite"
+  },
+  {
+    "title": "Kaggle Housing Competition",
+    "imageSrc": "projects/Kaggle.png",
+    "description": "Predicted house prices using regression techniques.",
+    "skills": ["Python", "Pandas", "PyTorch"],
+    "source": "https://github.com/ymelshar/KaggleHousing"
+  }
+]

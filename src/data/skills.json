@@ -1,0 +1,42 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/JavaScript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/Python.png"
+    },
+    {
+      "title": "Pandas",
+      "imageSrc": "skills/Pandas.png"
+    },
+    {
+      "title": "PyTorch",
+      "imageSrc": "skills/PyTorch.png"
+    },
+    {
+      "title": "C, C++",
+      "imageSrc": "skills/cpp.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "Firebase",
+      "imageSrc": "skills/firebase.png"
+    }
+  ]
